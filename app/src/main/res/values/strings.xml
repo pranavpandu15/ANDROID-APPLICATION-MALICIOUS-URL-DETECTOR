@@ -1,0 +1,17 @@
+<resources>
+    <!-- Existing strings -->
+    <string name="app_name">Safe URL Detector</string>
+    <string name="checking_url">Checking URL: %s</string>
+    <string name="no_url_found">No URL found</string>
+    <string name="url_safe_message">The URL is safe. Opening in browser…</string>
+    <string name="url_unsafe_message">Warning: The URL is unsafe!</string>
+    <string name="warning_dialog_title">Security Warning</string>
+    <string name="proceed_anyway">Proceed Anyway</string>
+    <string name="cancel">Cancel</string>
+    <string name="navigation_blocked">Navigation blocked for security</string>
+    <string name="no_browser_found">No browser app found</string>
+    <string name="failed_to_open_browser">Failed to open browser</string>
+    <string name="url_check_failed">URL safety check failed</string>
+    <string name="url_check_failed_detail">Could not verify URL safety</string>
+    <string name="unsafe_url_warning">Warning: %s may be unsafe</string><!-- Add this line -->
+</resources>
