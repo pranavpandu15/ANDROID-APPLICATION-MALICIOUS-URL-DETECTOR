@@ -18,7 +18,7 @@ import java.util.concurrent.Executors;
 public class MainActivity extends AppCompatActivity {
 
     private static final String TAG = "UrlSafetyChecker";
-    public static final String GOOGLE_SAFE_BROWSING_API_KEY = "AIzaSyC_iyN7p5gLI6nVc5nNerqBuPkU0SEbSMk"; // Insert your API key here
+    public static final String GOOGLE_SAFE_BROWSING_API_KEY = "Your API"; // Insert your API key here
     private static final String EXTRA_FROM_SAFETY_CHECKER = "from_safety_checker";
 
     private TextView urlTextView;
